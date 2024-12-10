@@ -5,7 +5,7 @@ const shoppingList = document.getElementById('shoppingList');
 const addButton = document.getElementById('addButton');
 
 // Function to add an item to the list
-addItemButton() {
+function addItemButton() {
   const itemText = itemInput.value.trim(); 
 
   if (itemText) {
