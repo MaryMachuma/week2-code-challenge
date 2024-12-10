@@ -93,6 +93,7 @@ CSS3 - For styling and responsive design.
 JavaScript - For interactivity and functionality
 
 Contact
+
 If you have questions or feedback, feel free to reach out:
 
 Email: machmary173@gmail.com
