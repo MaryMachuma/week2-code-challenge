@@ -92,13 +92,13 @@ HTML5 - For structuring the app.
 CSS3 - For styling and responsive design.
 JavaScript - For interactivity and functionality
 
-Contact
+## Contact
 
 If you have questions or feedback, feel free to reach out:
 
 Email: machmary173@gmail.com
 
-Licence
+##### Licence
 
 This project is licensed under the MIT License.
 
